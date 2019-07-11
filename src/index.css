@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+    background: url("./c7n.jpg") no-repeat 570px 200px; 
+    /* background-repeat: no-repeat; */
+    /* background-position: 40% center； */
+  }
+
+  /* body img {
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+    margin: 0 auto;
+  } */
